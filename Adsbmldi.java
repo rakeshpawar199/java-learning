@@ -22,7 +22,7 @@ public class Adsbmldi {
         int  mul=num1*num2;
         int div=num1/num2;
         int rem=num1%num2;
-        System.out.printf("add = %d\nsub = %d\nMul = %d\nSub = %d\nDiv = %d\nRem = %d\n ", add, sub, mul, div, rem);
+        System.out.printf("add = %d\nsub = %d\nMul = %d\nSub = %d\nDiv = %d\nRem \n ", add, sub, mul, div, rem);
     }
     
 }
